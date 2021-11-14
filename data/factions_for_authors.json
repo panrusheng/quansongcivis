@@ -1,0 +1,518 @@
+[
+ {
+  "author": "欧阳修",
+  "period": "北宋前期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "柳永",
+  "period": "北宋前期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "张先",
+  "period": "北宋前期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "晏殊",
+  "period": "北宋前期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "杜安世",
+  "period": "北宋前期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "范仲淹",
+  "period": "北宋前期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "刘潜",
+  "period": "北宋前期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "苏轼",
+  "period": "北宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "贺铸",
+  "period": "北宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "晏几道",
+  "period": "北宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "黄庭坚",
+  "period": "北宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "晁补之",
+  "period": "北宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "晁端礼",
+  "period": "北宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "李之仪",
+  "period": "北宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "秦观",
+  "period": "北宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "仲殊",
+  "period": "北宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "陈师道",
+  "period": "北宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "王安石",
+  "period": "北宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "张舜民",
+  "period": "北宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "毛滂",
+  "period": "北宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "周邦彦",
+  "period": "北宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "周紫芝",
+  "period": "北宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "葛胜仲",
+  "period": "北宋后期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "谢逸",
+  "period": "北宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "张继先",
+  "period": "北宋后期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "陈克",
+  "period": "北宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "王安中",
+  "period": "北宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "曹组",
+  "period": "北宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "万俟咏",
+  "period": "北宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "田为",
+  "period": "北宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "朱敦儒",
+  "period": "南渡时期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "王之道",
+  "period": "南渡时期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "张元干",
+  "period": "南渡时期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "曹勋",
+  "period": "南渡时期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "史浩",
+  "period": "南渡时期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "杨无咎",
+  "period": "南渡时期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "向子諲",
+  "period": "南渡时期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "蔡伸",
+  "period": "南渡时期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "吕渭老",
+  "period": "南渡时期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "张抡",
+  "period": "南渡时期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "曾觌",
+  "period": "南渡时期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "叶梦得",
+  "period": "南渡时期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "李弥逊",
+  "period": "南渡时期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "李纲",
+  "period": "南渡时期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "李清照",
+  "period": "南渡时期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "陈与义",
+  "period": "南渡时期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "岳飞",
+  "period": "南渡时期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "辛弃疾",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "赵长卿",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "张孝祥",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "韩淲",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "赵彦端",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "程垓",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "石孝友",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "赵师侠",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "陆游",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "葛长庚",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "洪适",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "郭应祥",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "范成大",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "史达祖",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "高观国",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "袁去华",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "黄机",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "卢祖皋",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "方千里",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "吕胜己",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "姜夔",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "韩元吉",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "丘崈",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "刘过",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "陈亮",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "王质",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "王千秋",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "陈三聘",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "管鉴",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "汪莘",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "曹冠",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "卢炳",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "王炎",
+  "period": "南宋中期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "赵善括",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "杨炎正",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "刘仙伦",
+  "period": "南宋中期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "吴文英",
+  "period": "南宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "张炎",
+  "period": "南宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "刘克庄",
+  "period": "南宋后期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "吴潜",
+  "period": "南宋后期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "陈允平",
+  "period": "南宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "李曾伯",
+  "period": "南宋后期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "周密",
+  "period": "南宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "陈著",
+  "period": "南宋后期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "仇远",
+  "period": "南宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "杨泽民",
+  "period": "南宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "方岳",
+  "period": "南宋后期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "王沂孙",
+  "period": "南宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "赵以夫",
+  "period": "南宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "张榘",
+  "period": "南宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "戴复古",
+  "period": "南宋后期",
+  "faction": "豪放派"
+ },
+ {
+  "author": "张辑",
+  "period": "南宋后期",
+  "faction": "婉约派"
+ },
+ {
+  "author": "尹焕",
+  "period": "南宋后期",
+  "faction": "婉约派"
+ },
+ 
+ {
+  "author": "刘辰翁",
+  "period": "宋元易代",
+  "faction": "豪放派"
+ },
+ {
+  "author": "陈德武",
+  "period": "宋元易代",
+  "faction": "豪放派"
+ },
+ {
+  "author": "文天祥",
+  "period": "宋元易代",
+  "faction": "豪放派"
+ }
+]

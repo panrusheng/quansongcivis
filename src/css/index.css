@@ -1,0 +1,143 @@
+:root{
+    --text-size: 18px;
+    --mobile-text-size: 22px;
+    --mobile-text-scale: 2.56;
+}
+ 
+.en {
+    font-family: 'Times New Roman';       
+}
+
+.ant-table-thead {
+    display: none
+}
+
+.ant-pagination {
+    display: none
+}
+
+/* 移动端 */
+@media all and (max-aspect-ratio: 1/1){
+    .sub-title {
+        font-family: 'W9';
+        color: black;
+        font-size: calc(36px*var(--mobile-text-scale));
+        text-align: left;   
+    }
+
+    .title-text {
+        font-family: 'W5';
+        font-size: calc(var(--mobile-text-size)*var(--mobile-text-scale));   
+        color: black;
+        text-indent: calc(2*var(--mobile-text-size)*var(--mobile-text-scale));    
+        line-height: calc(1.5*var(--mobile-text-size)*var(--mobile-text-scale));  
+        text-align: justify;
+    }
+
+    .title-text p {
+        margin: calc(0.5*var(--mobile-text-size)*var(--mobile-text-scale));
+    }
+
+    .label-text {
+        font-family: 'W9';
+        color: black;
+        font-size: calc(16px*var(--mobile-text-scale));
+    }
+
+    .legend-text {
+        fill : black;
+        font-size : calc(20px*var(--mobile-text-scale));
+        font-family : 'W5';
+    }
+
+    .bottom-text {
+        font-family: 'W5';
+        color: black;
+        font-size: calc(var(--mobile-text-size)*var(--mobile-text-scale));   
+        text-align: left;
+    }
+
+    .bottom-text p {
+        margin: calc(0.5*var(--mobile-text-size)*var(--mobile-text-scale));
+    }
+
+    .ant-popover-title {
+        padding: 10px 10px 10px 10px;
+        text-align: center;
+        font-size: 35px;
+    }
+
+    .ant-table-tbody {
+        text-align: center;
+        line-height: 1;
+        font-size: 30px;
+    }
+
+    .ant-table-thead > tr > th, .ant-table-tbody > tr > td{
+        padding: 20px 20px;
+        text-align: left;
+    }
+    .ant-tooltip {
+        z-index: 10;
+    }
+}
+
+/* 桌面端 */
+@media all and (min-aspect-ratio: 1/1){
+    .zh-sub-title {
+        font-family: 'W9';
+        font-size: 35px;
+        text-align: left;   
+        color: black;
+    }
+
+    .zh-title-text {
+        font-family: 'W5';
+        font-size: var(--text-size);   
+        color: black;
+        text-indent: calc(2*var(--text-size));    
+        line-height: calc(1.5*var(--text-size));  
+        text-align: justify;
+    }
+
+    .zh-title-text p {
+        margin: calc(0.5*var(--text-size));
+    }
+
+    .zh-label-text {
+        font-family: 'W5';
+        color: black;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .zh-bottom-text {
+        font-family: 'W5';
+        color: black;
+        font-size: var(--text-size);   
+        text-align: left;
+    }
+
+    .zh-bottom-text p {
+        margin: calc(0.5*var(--text-size));
+    }
+
+    .ant-popover-title {
+        padding: 10px 10px 10px 10px;
+        text-align: center;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .ant-table-tbody {
+        text-align: center;
+        line-height: 1;
+        font-size: 12px;
+    }
+
+    .ant-table-thead > tr > th, .ant-table-tbody > tr > td{
+        padding: 10px 10px;
+        text-align: left;
+    }
+
+}
